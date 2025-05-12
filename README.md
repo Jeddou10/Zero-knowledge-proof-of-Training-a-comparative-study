@@ -6,38 +6,38 @@ Plan of the Paper:
 
 I-Introduction
 
-Motivation: Privacy in ML training
+    Motivation: Privacy in ML training
 
-Problem: Verifying correctness without data exposure
+    Problem: Verifying correctness without data exposure
 
-Solution: Zero-Knowledge Proofs (ZKPs)
+    Solution: Zero-Knowledge Proofs (ZKPs)
 
 II-Background
 
-Overview of ZKPs
+    Overview of ZKPs
 
-Description of zkSNARKs, zkSTARKs, and Bulletproofs
+    Description of zkSNARKs, zkSTARKs, and Bulletproofs
 
 III-Methodology
 
-Benchmarking metrics: proof size, cost, scalability, etc.
+    Benchmarking metrics: proof size, cost, scalability, etc.
 
-Experimental setup with ML tasks and datasets
+    Experimental setup with ML tasks and datasets
 
 IV-Comparative Analysis
 
-Performance comparison across protocols
+    Performance comparison across protocols
 
-Use-case suitability for each protocol
+    Use-case suitability for each protocol
 
 V-Optimizations and Future Work
 
-Protocol enhancements (e.g., Kaizen, zkVMs)
+    Protocol enhancements (e.g., Kaizen, zkVMs)
 
-Applications in decentralized AI, post-quantum cryptography
+    Applications in decentralized AI, post-quantum cryptography
 
 VI-Conclusion
 
-Summary of findings and trade-offs
+    Summary of findings and trade-offs
 
-Recommendations for real-world deployment
+    Recommendations for real-world deployment
